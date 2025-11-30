@@ -1,1 +1,29 @@
-This is my project
+Open Source Course Project
+=====================================
+
+## Basic Information:
+- **Student:** Ahmed Bendjeda
+- **University:** [University Badji Mokhtar Annaba ]
+- **Class:** [L3 Biotechnology and health]
+- **Professor:** [Professor boulmaiz]
+- **Course:** Open Source
+- **Date:** December 2024
+
+##  Project Objective:
+This project aims to apply the basic principles of open source programming
+through using modern development tools and software project management.
+
+##  Acquired Skills:
+• Version control using Git
+• Programming collaboration via GitHub
+• Cloud programming using Google Colab
+• Professional project documentation
+
+##  Tools Used:
+- Google Colab - Git - GitHub - Python
+
+##  Implementation Steps:
+1. Create project in Google Colab
+2. Use Git to manage changes
+3. Upload project to GitHub
+4. Document work professionally
